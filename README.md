@@ -2,9 +2,9 @@
 
 ## 📌 Sobre o Projeto
 
-Este projeto tem como objetivo explorar os principais conceitos teóricos da Inteligência Artificial (IA), utilizando o NotebookLM como ferramenta de aprendizado ativo.
+Este projeto tem como objetivo explorar e consolidar os principais conceitos teóricos da Inteligência Artificial (IA), utilizando o NotebookLM como ferramenta de aprendizado ativo.
 
-A proposta é construir um caderno temático baseado em fontes confiáveis, aplicando engenharia de prompts e pensamento crítico para consolidar o conhecimento.
+A proposta consiste em combinar curadoria de fontes confiáveis, engenharia de prompts e pensamento crítico para construir um caderno temático estruturado, facilitando a compreensão de conceitos complexos.
 
 ---
 
@@ -12,15 +12,15 @@ A proposta é construir um caderno temático baseado em fontes confiáveis, apli
 
 - Compreender o conceito de Inteligência Artificial
 - Diferenciar IA, Machine Learning e Deep Learning
-- Entender como modelos aprendem a partir de dados
+- Entender como sistemas inteligentes aprendem com dados
 - Explorar os principais tipos de IA
-- Desenvolver habilidades de uso de IA para estudo
+- Desenvolver habilidades de estudo utilizando IA
 
 ---
 
 ## 📚 Curadoria de Fontes
 
-As fontes utilizadas no NotebookLM foram:
+As seguintes fontes foram selecionadas e utilizadas no NotebookLM:
 
 - https://developers.google.com/machine-learning/crash-course  
 - https://www.ibm.com/topics/artificial-intelligence  
@@ -33,57 +33,57 @@ As fontes utilizadas no NotebookLM foram:
 ## 🤖 Engenharia de Prompts
 
 ### 🔹 Prompt 1
-**Pergunta:**
+**Pergunta:**  
 O que é Inteligência Artificial?
 
-**Resumo:**
-IA é a área da computação que desenvolve sistemas capazes de simular a inteligência humana.
+**Resumo da resposta:**  
+A Inteligência Artificial é uma área da computação que desenvolve sistemas capazes de simular habilidades humanas, como aprendizado, raciocínio e tomada de decisão.
 
 ---
 
 ### 🔹 Prompt 2
-**Pergunta:**
-Diferença entre IA, Machine Learning e Deep Learning
+**Pergunta:**  
+Qual a diferença entre IA, Machine Learning e Deep Learning?
 
-**Resumo:**
-- IA: conceito geral  
-- Machine Learning: aprendizado com dados  
-- Deep Learning: redes neurais profundas  
+**Resumo da resposta:**  
+- IA: conceito geral de sistemas inteligentes  
+- Machine Learning: aprendizado baseado em dados  
+- Deep Learning: uso de redes neurais profundas  
 
 ---
 
 ### 🔹 Prompt 3
-**Pergunta:**
+**Pergunta:**  
 Explique redes neurais artificiais
 
-**Resumo:**
-São modelos inspirados no cérebro humano, compostos por neurônios artificiais que processam informações.
+**Resumo da resposta:**  
+São modelos computacionais inspirados no cérebro humano, compostos por neurônios artificiais que processam informações em camadas.
 
 ---
 
 ### 🔄 Refinamento de Prompts
 
-Foi necessário refinar perguntas para obter respostas mais claras.
+Durante o uso do NotebookLM, foi necessário refinar os prompts para obter respostas mais claras e completas.
 
-Exemplo:
-- Pergunta genérica → resposta vaga  
-- Pergunta com "explique de forma simples" → resposta melhor  
+**Exemplo:**
+- Prompt inicial: genérico → resposta superficial  
+- Prompt refinado: "explique de forma simples com exemplos" → resposta mais clara  
 
 ---
 
 ### ⚠️ Dificuldades Encontradas
 
-- Linguagem muito técnica em alguns conceitos
-- Falta de exemplos práticos
-- Necessidade de simplificação
+- Respostas muito técnicas em alguns momentos  
+- Falta de exemplos práticos  
+- Necessidade de simplificação dos conceitos  
 
 ---
 
 ### ✅ Estratégias Eficientes
 
-- Solicitar explicações simplificadas
-- Pedir exemplos
-- Refinar perguntas progressivamente
+- Solicitar explicações simplificadas  
+- Pedir exemplos do mundo real  
+- Refinar perguntas progressivamente  
 
 ---
 
@@ -91,45 +91,103 @@ Exemplo:
 
 ### 🧠 Resumo Geral
 
-A Inteligência Artificial é um campo da computação focado na criação de sistemas capazes de aprender, tomar decisões e reconhecer padrões.
+A Inteligência Artificial é um campo da computação focado na criação de sistemas capazes de aprender com dados, identificar padrões e tomar decisões de forma automatizada.
 
 ---
 
-### 📊 Principais Conceitos
+### 📊 Estrutura da Inteligência Artificial
 
-- IA (Inteligência Artificial)
-- Machine Learning
-- Deep Learning
-- Algoritmos
-- Dados de treinamento
+A IA pode ser dividida em:
 
----
-
-### 📚 Glossário
-
-- **IA:** Simulação da inteligência humana por máquinas  
-- **Machine Learning:** Aprendizado baseado em dados  
-- **Deep Learning:** Subárea baseada em redes neurais profundas  
-- **Algoritmo:** Conjunto de regras para resolver um problema  
-- **Dataset:** Conjunto de dados  
+- Inteligência Artificial (IA)
+  - Machine Learning
+    - Deep Learning
 
 ---
 
-### 💡 Prompts Reutilizáveis
+### ⚙️ Como a IA Aprende
+
+1. Coleta de dados  
+2. Preparação e limpeza dos dados  
+3. Treinamento do modelo  
+4. Avaliação do desempenho  
+5. Ajustes e otimização  
+
+---
+
+## 📚 Glossário Estruturado
+
+### 🔹 Conceitos Fundamentais
+
+**Inteligência Artificial (IA)**  
+Área da computação que busca criar sistemas capazes de simular a inteligência humana.
+
+**Algoritmo**  
+Sequência de instruções utilizadas para resolver um problema.
+
+**Modelo**  
+Representação matemática treinada para realizar tarefas específicas.
+
+---
+
+### 🔹 Aprendizado de Máquina
+
+**Machine Learning (ML)**  
+Subárea da IA que permite que sistemas aprendam a partir de dados.
+
+**Dataset**  
+Conjunto de dados utilizado para treinar e testar modelos.
+
+**Treinamento**  
+Processo de aprendizado do modelo com base em dados.
+
+---
+
+### 🔹 Deep Learning
+
+**Deep Learning**  
+Subárea do Machine Learning baseada em redes neurais profundas.
+
+**Rede Neural**  
+Modelo inspirado no cérebro humano que processa informações em camadas.
+
+**Neurônio Artificial**  
+Unidade básica de uma rede neural responsável por processar informações.
+
+---
+
+### 🔹 Processos e Conceitos Técnicos
+
+**Overfitting**  
+Quando o modelo aprende muito bem os dados de treino, mas falha em novos dados.
+
+**Generalização**  
+Capacidade do modelo de funcionar bem com dados novos.
+
+**Pipeline**  
+Sequência de etapas no desenvolvimento de um sistema de IA.
+
+---
+
+## 💡 Prompts Reutilizáveis
 
 - Explique [conceito] de forma simples  
-- Dê exemplos de [conceito]  
-- Resuma em tópicos  
+- Dê exemplos práticos de [conceito]  
+- Resuma em tópicos organizados  
 - Explique passo a passo  
+- Compare [conceito A] e [conceito B]  
 
 ---
 
 ## 🚀 Conclusão
 
-Este projeto demonstrou como a Inteligência Artificial pode ser utilizada como ferramenta de aprendizado, auxiliando na compreensão de conceitos complexos e na organização do conhecimento.
+Este projeto demonstrou como a Inteligência Artificial pode ser utilizada como ferramenta de aprendizado ativo, auxiliando na compreensão de conceitos complexos e na construção de conhecimento estruturado.
+
+Além disso, reforçou a importância da engenharia de prompts e do pensamento crítico na interação com sistemas de IA.
 
 ---
 
-## 🔗 Entrega
+## 🔗 Repositório do Projeto
 
-Link do repositório: (adicione aqui)
+Acesse aqui:  
+https://github.com/AgathaCRuiz/fundamentos-ia-notebooklm.git
